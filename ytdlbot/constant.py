@@ -19,8 +19,7 @@ from utils import get_func_queue
 
 
 class BotText:
-    start = "Welcome to Night Vission YouTube Download bot Updates @NightVissionYTBot creator @NightVission =========================   Type /help for more information How to download yt Video .
-Type /about for get information bot.
+    start = "Welcome to Night Vission YouTube Download bot Updates @NightVissionYTBot creator @NightVission =========================    Type /help for more information How to download yt Video.Type /about for get information bot.
 Good job 🌷❤️."
 
     help = f"""
