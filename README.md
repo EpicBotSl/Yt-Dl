@@ -15,9 +15,8 @@ Can't deploy? Fork to your personal account and deploy it there!
 # Usage
 
 [@NightVissionYTBot](https://t.me/NightVissionYTBot)
-
-Send link directly to the bot. Any
-Websites [supported by youtube-dl](https://ytdl-org.github.io/youtube-dl/supportedsites.html) will also work.
+[Updates](https://t.me/NightVission)
+[Support](https://t.me/NightVissionSupport)
 
 # Limitations of my bot
 
