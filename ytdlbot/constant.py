@@ -52,8 +52,7 @@ For example, if you download a video of 1GB, your current quota will be 9GB inst
 6. It's a open source project, you can always deploy your own bot.
 
 7. For VIPs, please refer to /vip command
-    """ if ENABLE_VIP else "Hi   Send me the YT Video link or name ! Updates @NightVission
-Creator @NA_VA_N_JA_NA1"
+    """ if ENABLE_VIP else "Hi Send me the YT Video link or name Updates @NightVission Creator @NA_VA_N_JA_NA1"
 
     vip = f"""
 **Terms:**
