@@ -19,7 +19,7 @@ from utils import get_func_queue
 
 
 class BotText:
-    start = <a href='https://telegra.ph/file/058694bd18d9e6367a435.jpg'>@NightVissionYTBot</a>Welcome to Night Vission YouTube Download bot. Type /help for more information Creator."
+    start = "Welcome to Night Vission YouTube Download bot. Type /help for more information Creator."
 
     help = f"""
 1. This bot should works at all times. If it doesn't, try to send the link again or DM @BennyThink
