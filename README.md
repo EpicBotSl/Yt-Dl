@@ -1,14 +1,12 @@
 # ytdlbot
 
-[![docker image](https://github.com/tgbot-collection/ytdlbot/actions/workflows/builder.yaml/badge.svg)](https://github.com/tgbot-collection/ytdlbot/actions/workflows/builder.yaml)
+[![docker image](https://telegra.ph/file/058694bd18d9e6367a435.jpg)](https://github.com/tgbot-collection/ytdlbot/actions/workflows/builder.yaml)
 
 YouTube Download Bot🚀
 
 Download videos from YouTube and other platforms through a Telegram Bot
 
 -----
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 Can't deploy? Fork to your personal account and deploy it there!
 
@@ -48,12 +46,10 @@ You can choose to become 'VIP' if you really need large traffic. And also, you c
 
 
 # How to deploy?
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 You can deploy this bot on any platform that supports Python.
 
-## Heroku
-
-Use the button above! It should work like a magic but with limited functionalities.
 
 # Command
 
