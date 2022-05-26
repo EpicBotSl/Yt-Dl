@@ -33,8 +33,7 @@ every one can use this bot within **{sizeof_fmt(QUOTA)} of quota for every {int(
 4. You can optionally choose to become 'VIP' user if you need more traffic. Type /vip for more information.
 
 5. Source code for this bot will always stay open, here-> https://github.com/Captainamarica/Nightvission-YtDownloadBot
-    """ if ENABLE_VIP else "Hi   Send me the YT Video link or name ! Updates @NightVission
-Creator @NA_VA_N_JA_NA1"
+    """ if ENABLE_VIP else "Hi Send me the YT Video link or name Updates @NightVission Creator @NA_VA_N_JA_NA1"
 
     about = "I'm Night Vission Yt Download Bot! Updates @NightVission Creator @NA_VA_N_JA_NA1."
 
