@@ -112,8 +112,8 @@ def upload_hook(current, total, bot_msg):
     edit_text(bot_msg, text)
 
 
-def check_quota(file_size, chat_id) -> ("bool", "str"):
-    remain, _, ttl = VIP().check_remaining_quota(chat_id)
+def check_quota(file_size, success) -> ("bool", "str"):
+    remain, _, ttl = VIP().check_remaining_quota(success)
     if file_size > remain:
         refresh_time = current_time(ttl + time.time())
         err = f"Quota exceed, you have {sizeof_fmt(remain)} remaining, " \
