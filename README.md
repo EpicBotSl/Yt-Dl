@@ -14,9 +14,11 @@ Can't deploy? Fork to your personal account and deploy it there!
 
 # Usage
 
-[@NightVissionYTBot](https://t.me/NightVissionYTBot)
-[Updates](https://t.me/NightVission)
-[Support](https://t.me/NightVissionSupport)
+[@NightVissionYTBot🇱🇰](https://t.me/NightVissionYTBot)
+
+[Updates🇱🇰](https://t.me/NightVission)
+
+[Support🇱🇰](https://t.me/NightVissionSupport)
 
 # Limitations of my bot
 
