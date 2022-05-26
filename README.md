@@ -14,7 +14,7 @@ Can't deploy? Fork to your personal account and deploy it there!
 
 # Usage
 
-[https://t.me/benny_ytdlbot](https://t.me/benny_ytdlbot)
+[@NightVissionYTBot](https://t.me/NightVissionYTBot)
 
 Send link directly to the bot. Any
 Websites [supported by youtube-dl](https://ytdl-org.github.io/youtube-dl/supportedsites.html) will also work.
