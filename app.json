@@ -1,7 +1,7 @@
 {
-  "name": "YouTube-Downloader",
+  "name": "Night Vission YouTube-Downloader",
   "description": "A Telegrambot to download youtube video",
-  "repository": "https://github.com/tgbot-collection/ytdlbot",
+  "repository": "https://github.com/Captainamarica/ytdlbot",
   "logo": "https://avatars.githubusercontent.com/u/73354211?s=200&v=4",
   "keywords": [
     "telegram",
@@ -10,19 +10,19 @@
   "env": {
     "TOKEN": {
       "description": "Bot token",
-      "value": "token"
+      "value": "5348612647:AAFRIXHBEuIpjugiC1bZGHT_Hp2GtoGawSU"
     },
     "APP_ID": {
       "description": "APP ID",
-      "value": "12345"
+      "value": "18895284"
     },
     "APP_HASH": {
       "description": "APP HASH",
-      "value": "12345abc"
+      "value": "3091d00186aa25b92a9b791dcebd59de"
     },
     "OWNER": {
       "description": "Your telegram username",
-      "value": "username",
+      "value": "@NA_VA_N_JA_NA1",
       "required": false
     }
   },
