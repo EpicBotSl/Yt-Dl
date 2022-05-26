@@ -1,4 +1,4 @@
-# ytdlbot
+# NIGHT VISSION YT DOWNLOADER BOT
 
 [![docker image](https://telegra.ph/file/058694bd18d9e6367a435.jpg)](https://github.com/tgbot-collection/ytdlbot/actions/workflows/builder.yaml)
 
@@ -29,8 +29,6 @@ I don't have unlimited servers and bandwidth, so I have to make some restriction
 You can choose to become 'VIP' if you really need large traffic. And also, you could always deploy your own bot.
 
 # Features
-
-![]https://telegra.ph/file/058694bd18d9e6367a435.jpg
 
 1. fast download and upload.
 2. ads free
