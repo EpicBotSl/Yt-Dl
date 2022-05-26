@@ -19,10 +19,10 @@ from utils import get_func_queue
 
 
 class BotText:
-    start = "Welcome to Night Vission YouTube Download bot Updates @NightVissionYTBot creator @NightVission =========================   Type /help for more information How to download yt Video .Type /about for get information bot.Good job 🌷❤️."
+    start = "Welcome to Night Vission YouTube Download bot Updates @NightVissionYTBot creator @NightVission =========================   Type /help for more information How to download yt Video .Type /about for get information bot. Good job 🌷❤️."
 
     help = f"""
-1. This bot should works at all times. If it doesn't, try to send the link again or DM @BennyThink
+1. This bot should works at all times. If it doesn't, try to send the link again or DM @NightVissionYTBot
 
 2. At this time of writing, this bot consumes hundreds of GigaBytes of network traffic per day. 
 In order to avoid being abused, 
@@ -32,10 +32,11 @@ every one can use this bot within **{sizeof_fmt(QUOTA)} of quota for every {int(
 
 4. You can optionally choose to become 'VIP' user if you need more traffic. Type /vip for more information.
 
-5. Source code for this bot will always stay open, here-> https://github.com/tgbot-collection/ytdlbot
-    """ if ENABLE_VIP else "Help text"
+5. Source code for this bot will always stay open, here-> https://github.com/Captainamarica/Nightvission-YtDownloadBot
+    """ if ENABLE_VIP else "Hi   Send me the YT Video link or name ! Updates @NightVission
+Creator @NA_VA_N_JA_NA1"
 
-    about = "YouTube-DL by @BennyThink. Open source on GitHub: https://github.com/tgbot-collection/ytdlbot"
+    about = "I'm Night Vission Yt Download Bot! Updates @NightVission Creator @NA_VA_N_JA_NA1."
 
     terms = f"""
 1. You can use this service, free of charge, {sizeof_fmt(QUOTA)} per {int(EX / 3600)} hours.
@@ -52,7 +53,8 @@ For example, if you download a video of 1GB, your current quota will be 9GB inst
 6. It's a open source project, you can always deploy your own bot.
 
 7. For VIPs, please refer to /vip command
-    """ if ENABLE_VIP else "Please contact the actual owner of this bot"
+    """ if ENABLE_VIP else "Hi   Send me the YT Video link or name ! Updates @NightVission
+Creator @NA_VA_N_JA_NA1"
 
     vip = f"""
 **Terms:**
@@ -77,7 +79,7 @@ __I live in a place where I don't have access to Telegram Payments. So...__
 1. afdian: with your order number `/vip 123456`
 2. buy me a coffee: with your email `/vip someone@else.com`
     """ if ENABLE_VIP else "VIP is not enabled."
-    vip_pay = "Processing your payments...If it's not responding after one minute, please contact @BennyThink."
+    vip_pay = "Processing your payments...If it's not responding after one minute, please contact @NA_VA_N_JA_NA1."
 
     private = "This bot is for private use"
     membership_require = f"You need to join this group or channel to use this bot\n\nhttps://t.me/{REQUIRED_MEMBERSHIP}"
