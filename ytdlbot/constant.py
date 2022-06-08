@@ -19,7 +19,22 @@ from utils import get_func_queue
 
 
 class BotText:
-    start = "Welcome to Night Vission YouTube Download bot Updates @NightVissionYTBot creator @NightVission =========================   Type /help for more information How to download yt Video .Type /about for get information bot. Good job 🌷❤️."
+    start = "Hi[!](https://telegra.ph/file/ed14c8e59bf0833b7a619.jpg)Welcome to Night Vission YouTube Download bot Updates @NightVissionYTBot creator @NightVission =========================   Type /help for more information How to download yt Video .Type /about for get information bot. Good job 🌷❤️."
+
+START_BUTTON = [
+                [
+                    InlineKeyboardButton(text="Updates", url=f"https://t.me/SILENT_BOTS"),
+                    InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
+                ],
+                [
+                    InlineKeyboardButton(text="Owner", url=f"https://t.me/{OWNER_USERNAME}"),
+                    InlineKeyboardButton(text="Source✨", callback_data="repo_k"),
+                ],                
+                [                    
+                    InlineKeyboardButton(text="Help & Commands!", callback_data="help_"),
+                ],
+                
+            ]
 
     help = f"""
 1. This bot should works at all times. If it doesn't, try to send the link again or DM @NightVissionYTBot
