@@ -10,6 +10,7 @@ __author__ = "Benny <benny.think@gmail.com>"
 import os
 import time
 
+from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from config import (AFD_LINK, COFFEE_LINK, ENABLE_CELERY, ENABLE_VIP, EX,
                     MULTIPLY, REQUIRED_MEMBERSHIP, USD2CNY)
 from db import InfluxDB
@@ -20,22 +21,6 @@ from utils import get_func_queue
 
 class BotText:
     start = "Hi[!](https://telegra.ph/file/ed14c8e59bf0833b7a619.jpg)Welcome to Night Vission YouTube Download bot Updates @NightVissionYTBot creator @NightVission =========================   Type /help for more information How to download yt Video .Type /about for get information bot. Good job 🌷❤️."
-
-START_BUTTON = [
-                [
-                    InlineKeyboardButton(text="Updates", url=f"https://t.me/SILENT_BOTS"),
-                    InlineKeyboardButton(text="ᴀᴅᴅ ᴍᴇ💥", url=f"http://t.me/{BOT_USERNAME}?startgroup=true"),
-                ],
-                [
-                    InlineKeyboardButton(text="Owner", url=f"https://t.me/{OWNER_USERNAME}"),
-                    InlineKeyboardButton(text="Source✨", callback_data="repo_k"),
-                ],                
-                [                    
-                    InlineKeyboardButton(text="Help & Commands!", callback_data="help_"),
-                ],
-                
-            ]
-
     help = f"""
 1. This bot should works at all times. If it doesn't, try to send the link again or DM @NightVissionYTBot
 
@@ -50,7 +35,7 @@ every one can use this bot within **{sizeof_fmt(QUOTA)} of quota for every {int(
 5. Source code for this bot will always stay open, here-> https://github.com/Captainamarica/Nightvission-YtDownloadBot
     """ if ENABLE_VIP else "Hi Send me the YT Video link or name Updates @NightVission Creator @NA_VA_N_JA_NA1"
 
-    about = "I'm Night Vission Yt Download Bot! Updates @NightVission Creator @NA_VA_N_JA_NA1."
+    about = "I'm Night Vission Yt Download Bot[!](https://telegra.ph/file/ed14c8e59bf0833b7a619.jpg) Updates @NightVission Creator @NA_VA_N_JA_NA1."
 
     terms = f"""
 1. You can use this service, free of charge, {sizeof_fmt(QUOTA)} per {int(EX / 3600)} hours.
