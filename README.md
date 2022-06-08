@@ -44,7 +44,7 @@ You can choose to become 'VIP' if you really need large traffic. And also, you c
 
 
 # How to deploy?
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2FCaptainamarica%2FNightvission-YtDownloadBot)
 
 You can deploy this bot on any platform that supports Python.
 
