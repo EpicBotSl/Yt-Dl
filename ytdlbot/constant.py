@@ -10,7 +10,6 @@ __author__ = "Benny <benny.think@gmail.com>"
 import os
 import time
 
-from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton, CallbackQuery
 from config import (AFD_LINK, COFFEE_LINK, ENABLE_CELERY, ENABLE_VIP, EX,
                     MULTIPLY, REQUIRED_MEMBERSHIP, USD2CNY)
 from db import InfluxDB
