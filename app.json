@@ -1,7 +1,7 @@
 {
   "name": "Night Vission YouTube Downloader",
   "description": "A Telegrambot to download youtube video",
-  "repository": "https://github.com/Captainamarica/Nightvission-YtDownloadBot",
+  "repository": "https://github.com/EpicBotSl/Yt-Dl",
   "logo": "https://telegra.ph/file/058694bd18d9e6367a435.jpg",
   "keywords": [
     "telegram",
@@ -10,7 +10,7 @@
   "env": {
     "TOKEN": {
       "description": "Bot token",
-      "value": "5353602046:AAH4gYSwGJAkABHfz3UQOcw8SU_g6mlFDXc"
+      "value": "5498629408:AAFXdkmNr7tyJcaJFd3aw6TtdMZ5-knL6Jk"
     },
     "APP_ID": {
       "description": "APP ID",
