@@ -19,9 +19,9 @@ from utils import get_func_queue
 
 
 class BotText:
-    start = "Hi[!](https://telegra.ph/file/ed14c8e59bf0833b7a619.jpg)Welcome to Night Vission YouTube Download bot Updates @NightVissionYTBot creator @NightVission =========================   Type /help for more information How to download yt Video .Type /about for get information bot. Good job 🌷❤️."
+    start = "Hi[!](https://telegra.ph/file/ed14c8e59bf0833b7a619.jpg)Welcome to Night Vission YouTube Download bot Updates @EpicYtDlBot creator @EpicBotsSl =========================   Type /help for more information How to download yt Video .Type /about for get information bot. Good job 🌷❤️."
     help = f"""
-1. This bot should works at all times. If it doesn't, try to send the link again or DM @NightVissionYTBot
+1. This bot should works at all times. If it doesn't, try to send the link again or DM @EpicYtDlBot
 
 2. At this time of writing, this bot consumes hundreds of GigaBytes of network traffic per day. 
 In order to avoid being abused, 
@@ -32,7 +32,7 @@ every one can use this bot within **{sizeof_fmt(QUOTA)} of quota for every {int(
 4. You can optionally choose to become 'VIP' user if you need more traffic. Type /vip for more information.
 
 5. Source code for this bot will always stay open, here-> https://github.com/Captainamarica/Nightvission-YtDownloadBot
-    """ if ENABLE_VIP else "Hi Send me the YT Video link or name Updates @NightVission Creator @NA_VA_N_JA_NA1"
+    """ if ENABLE_VIP else "Hi Send me the YT Video link or name Updates @EpicBotsSl Creator @NA_VA_N_JA_NA1"
 
     about = "I'm Night Vission Yt Download Bot[!](https://telegra.ph/file/ed14c8e59bf0833b7a619.jpg) Updates @NightVission Creator @NA_VA_N_JA_NA1."
 
