@@ -12,7 +12,7 @@ Can't deploy? Fork to your personal account and deploy it there!
 
 # Usage
 
-[@NightVissionYTBot🇱🇰](https://t.me/NightVissionYTBot)
+[@EPIC| YT-DlBOT](https://t.me/EpicYtDlBot)
 
 [Updates🇱🇰](https://t.me/NightVission)
 
